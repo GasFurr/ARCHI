@@ -1,7 +1,7 @@
 <div align="center">
 
 
-[![License: MPL v 2.0](https://img.shields.io/badge/license-MPL-2.0-orange)](https://choosealicense.com/licenses/mpl-2.0)
+[![License: MPL v 2.0](https://img.shields.io/badge/license-MPLv2.0-orange)](https://choosealicense.com/licenses/mpl-2.0)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/GasFurr/ARCHI?color=green&branch=main)
 ![Version](https://img.shields.io/badge/version-0.0.1--alpha-yellow)
 
@@ -11,7 +11,7 @@
 -----
 
 > **⚠️ Live Fast Crash Harder**
-> ArchiOS is an operating system for those who embrace exploration and are comfortable with a rapidly evolving, potentially unstable environment. It's for those who like to explore and aren't afraid of a bit of instability – the kind of adventurous user who sees `rm -rf /` as a fun starting point.
+> ArchiOS is an operating system for those who embrace exploration and are comfortable with a rapidly evolving, potentially unstable environment. It's for those who aren't afraid of a bit of instability - the kind of user who sees `rm -rf /` as a fun starting point.
 
 ---
 
@@ -42,7 +42,7 @@ ArchiOS embodies a fundamental rethinking of operating system design through cor
 4. **User-Centric Empowerment**  
    Design prioritizes efficiency and understanding:
    - Keyboard-first interaction minimizes friction
-   - Contextual tools (`new/edit/view/stat`) adapt to tasks
+   - Intuitive contextual tools (`new/edit/view/stat`).
    - Clean visual aesthetic reduces cognitive load
 
 5. **Open Innovation**  
