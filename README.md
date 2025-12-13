@@ -12,7 +12,7 @@
 -----
 
 > **⚠️ Live Fast, Crash Harder.**
-> ArchiOS is for those who embrace exploration and aren't afraid of a bit of instability—the kind of adventurous user who sees `rm -rf /` as a fun starting point. ArchiOS is a desktop-pure, 2015+ baseline operating system. It is not for servers, it is not for phones, and it is not for the faint of heart. It is a hobby for those who want to reclaim the act of **Computing**
+> ArchiOS is for those who embrace exploration and aren't afraid of a bit of instability - the kind of adventurous user who sees `rm -rf /` as a fun starting point. ArchiOS is a desktop-pure, 2015+ baseline operating system. It is not for servers, it is not for phones, and it is not for the faint of heart. It is a hobby for those who want to reclaim the act of **Computing**
 
 ---
 
@@ -28,7 +28,7 @@ ArchiOS embodies a fundamental rethinking of operating system design through cor
 
 4. **User-Centric Empowerment** Design prioritizes efficiency and direct control. Interaction is keyboard-first, utilizing a "Down-Top" terminal where history flows upward from a pinned input line. Contextual tools (`new`, `edit`, `view`, `stat`) replace fragmented Unix utilities.
 
-5. **Open Innovation** The architecture enables community-driven evolution through a transparent development process. The system remains purely offline regarding telemetry—your data and your logs stay local.
+5. **Open Innovation** The architecture enables community-driven evolution through a transparent development process. The system remains purely offline regarding telemetry - your data and your logs stay local.
 
 ---
 
