@@ -4,7 +4,7 @@
 **The Desktop-Pure Computing Environment.**
 *IBM Industrial Design. Bauhaus Geometry. Zig Performance.*
 
-[![License: MPL v 2.0](https://img.shields.io/badge/license-MPL-2.0-orange)](https://choosealicense.com/licenses/mpl-2.0)
+[![License: MPL v 2.0](https://img.shields.io/badge/license-MPLv2.0-orange)](https://choosealicense.com/licenses/mpl-2.0)
 ![Version](https://img.shields.io/badge/version-0.0.1--alpha-yellow)
 
 </div>
