@@ -167,6 +167,16 @@ Using AI for code itself isn't that bad, just remember - AI can't think for you,
 
 ---
 
+### Versioning scheme
+
+For Alpha stage development:
+0.YY.WW - so version published on 05.01.2026 will be 0.26.1 as it's a version from the first week of 2026.
+
+For Beta and Pre-release stage's classic:
+Major.Minor.Patch - so 1.0.0 is First major version, Zero minor version, Patch zero.
+
+---
+
 ### Some Q&A
 
 > Most hobby OSes fail from lack of applications. Your driver model needs to make porting software easier, not harder.
